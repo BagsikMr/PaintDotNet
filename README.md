@@ -9,6 +9,6 @@
 
 
 ## Setup
-Run 
+Run MyPaint.exe
 
 

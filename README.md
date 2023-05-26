@@ -14,6 +14,8 @@ The program includes:
 * A slider responsible for brush thickness.
 * A large field for choosing a color.
 
+![Interface of MyPaint](MyPaint.png)
+
 ## Setup
 Run MyPaint.exe
 
